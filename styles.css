@@ -1,0 +1,60 @@
+#title {
+    font-size: 200%;
+    width: auto;
+    font-family: 'Old English Five', sans-serif;
+                                          
+  }
+
+.center {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+
+  }
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+li {
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+#tribute-info {
+  font-size: 25px;
+}
+
+.caption {
+  font-size: 20px;
+  margin-left: 11rem;
+  margin-right: 11rem;
+}
+  @media only screen and (min-width:480px)
+  {
+
+  }
+
+  @media only screen and (min-width:767px)
+  {
+
+  }
+
+  @media only screen and (min-width:991px)
+  {
+
+  }
+
+  @media only screen and (min-width:1200px)
+  {
+ .font {
+    padding: 0px 200px 15px 200px;
+        }
+  }
+
+  @media(orientation: landscape)
+  {
+
+  }
